@@ -1,0 +1,13 @@
+p{
+    color: tomato;
+}
+h1{
+    background-color: lime;
+}
+h3{
+    background-color: aqua;
+}
+
+h1 + h3 {
+    color: gold;
+}
